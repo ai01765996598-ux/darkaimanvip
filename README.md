@@ -1,4 +1,4 @@
 
 
-#  new file:   AIMANVIPADMINPANEL.php
-#  new file:   index.php
+#  new file:   AIMANVIPADMINPANEL.html
+#  new file:   index.html
